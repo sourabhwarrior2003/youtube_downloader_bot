@@ -1,0 +1,8 @@
+# Core Requirements
+python-telegram-bot==20.3  # Stable Telegram Bot API
+yt-dlp==2023.11.16         # YouTube downloading (pinned for stability)
+ffmpeg-python==0.2.0       # Audio/Video processing
+mutagen==1.47.0            # Audio metadata handling
+
+# System Dependencies (must be installed separately)
+# ffmpeg>=4.3              # Required for media conversion
