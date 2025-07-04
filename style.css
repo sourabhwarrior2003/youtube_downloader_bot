@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 40px;
+}
+.container {
+    background: white;
+    border-radius: 8px;
+    padding: 30px;
+    display: inline-block;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
